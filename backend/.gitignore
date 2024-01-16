@@ -1,0 +1,61 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Java
+target/
+*.class
+
+# npm
+package-lock.json
+
+# Yarn
+yarn.lock
+
+# Compiled binaries
+/bin/
+/build/
+/dist/
+*.exe
+*.dll
+*.out
+
+# Logs
+*.log
+
+# Temporary files
+*~
+
+# Environment configuration
+.env
+
+# Configuration files
+.config/
+
+# Archives
+*.zip
+*.tar.gz
+
+# Database files
+*.sqlite
